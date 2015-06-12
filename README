@@ -1,0 +1,11 @@
+3d_particle_geyser
+******************
+
+build & run:
+	make
+	./a2
+
+A 3D particle geyser with some toggleable features; C++ & openGL
+See console output for interaction options.
+Much fun!
+
